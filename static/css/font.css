@@ -1,0 +1,63 @@
+@font-face{
+    src : url("./wiggle.ttf");
+    font-family: 'wiggle';
+}
+@font-face{
+    src : url("./hwayang.ttf");
+    font-family: 'hwayang';
+}
+@font-face{
+    src:url("./iamaplayer.ttf");
+    font-family: 'iamaplayer';
+}
+@font-face{
+    src: url("./typoB.ttf");
+    font-family: 'typoB';
+}
+@font-face{
+    src: url("./DX.ttf");
+    font-family: 'dx';
+}
+
+
+#wrap{width: 100%; height: 100%; opacity: 0.7; background-image: url('./BTS.jpg');}
+#header{width: 100%; height: 400px; background-color: cornflowerblue;}
+
+
+h1{
+    vertical-align: middle;
+    color: red;
+    font-size: 50px;
+    font-family: 'wiggle', monospace;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+    font-family: 'hwayang';
+}
+
+h3{
+    color: black;
+    font-size: 50px;
+    font-family: 'iamapalyer';
+    text-align: center;
+}
+
+h4{
+    color: red;
+    font-size: 35px;
+    font-family: 'typoB';
+    text-align: center;
+    padding: 15px;
+}
+h5{
+    color: blue;
+    font-size: 30px;
+    font-family: 'typoB';
+    text-align: center;
+    font-weight: 300;
+}
+
+
